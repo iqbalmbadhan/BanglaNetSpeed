@@ -22,7 +22,7 @@ Developed by [Iqbal Mahmud](https://iqbalmahmud.com) · Current version: **[v1.3
 Hover over any speed bar or hardware metric for dynamic live status (e.g. *"আপনার আপলোড গতি হলো ১২৩.৪৭ KB/s"*):
 
 <p align="center">
-  <img src="screenshots/widget-bangla-tooltip.png" alt="Bangla Mode with live hover tooltip showing upload speed" />
+  <img src="screenshots/widget-bangla-tool-tip.png" alt="Bangla Mode with live hover tooltip showing upload speed" />
 </p>
 
 ### 🖥️ Docked on Windows 11 Taskbar
